@@ -1,0 +1,4 @@
+tweepy
+matplotlib
+pandas
+vaderSentiment
